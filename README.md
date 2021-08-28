@@ -1,0 +1,2 @@
+# SolarCell_patent_classification
+SolarCell_patent_classification paper code
